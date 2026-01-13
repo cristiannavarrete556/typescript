@@ -1,0 +1,8 @@
+variables hibridas string / number
+
+
+
+for e
+
+
+serie de leinis  pido n y le calculo por la formula de leinis y ue cada que ingres me saque el resultado y que si esta serca debe salirme pi
